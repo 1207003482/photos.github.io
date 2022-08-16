@@ -177,7 +177,7 @@ video{
 .rotateImg{
     position:absolute;
     top:150px;
-    left:150px;
+    left:50px;
     width:200px;
     height:200px;
      transform-style: preserve-3d;
